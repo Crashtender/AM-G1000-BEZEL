@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>Crashtender</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>Bezel for the G1000 screen.
+This can be used with the G1000 instrument
+Original size 1467x941
+</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>941</prefHeight>
+    <prefWidth>1467</prefWidth>
+    <type>G1000 Bezel</type>
+    <uuid>cb0fb171-e79e-4f07-85ec-7ab9f825f13f</uuid>
+    <version>100</version>
+</pluginstrument>
